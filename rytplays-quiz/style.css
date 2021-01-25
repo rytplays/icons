@@ -1,0 +1,121 @@
+@font-face {
+  font-family: 'quizzes-icons';
+  src:  url('fonts/quizzes-icons.eot?axbtt6');
+  src:  url('fonts/quizzes-icons.eot?axbtt6#iefix') format('embedded-opentype'),
+    url('fonts/quizzes-icons.ttf?axbtt6') format('truetype'),
+    url('fonts/quizzes-icons.woff?axbtt6') format('woff'),
+    url('fonts/quizzes-icons.svg?axbtt6#quizzes-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ic-"], [class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'quizzes-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-youtube-colored:before {
+  content: "\e909";
+  color: #f00;
+}
+.ic-telegram-colored:before {
+  content: "\e90d";
+  color: #2ca5e0;
+}
+.ic-facebook-colored:before {
+  content: "\e90e";
+  color: #1877f2;
+}
+.ic-whatsapp-colored:before {
+  content: "\e90f";
+  color: #25d366;
+}
+.ic-tip:before {
+  content: "\e901";
+}
+.ic-info:before {
+  content: "\e902";
+}
+.ic-copyright:before {
+  content: "\e903";
+}
+.ic-upload:before {
+  content: "\e904";
+}
+.ic-apps:before {
+  content: "\e905";
+}
+.ic-arrow-up:before {
+  content: "\e906";
+}
+.ic-arrow-down:before {
+  content: "\e907";
+}
+.ic-download:before {
+  content: "\e908";
+}
+.ic-share:before {
+  content: "\e90a";
+}
+.ic-copy:before {
+  content: "\e90b";
+}
+.ic-notification:before {
+  content: "\e900";
+}
+.ic-home:before {
+  content: "\e90c";
+}
+.ic-book:before {
+  content: "\e91f";
+}
+.ic-books:before {
+  content: "\e920";
+}
+.ic-tag:before {
+  content: "\e935";
+}
+.ic-tags:before {
+  content: "\e936";
+}
+.ic-clock:before {
+  content: "\e94e";
+}
+.ic-search:before {
+  content: "\e986";
+}
+.ic-menu:before {
+  content: "\e9bd";
+}
+.ic-link:before {
+  content: "\e9cb";
+}
+.ic-close:before {
+  content: "\ea0f";
+}
+.ic-telegram1:before {
+  content: "\ea95";
+}
+.ic-youtube:before {
+  content: "\ea9d";
+}
+.ic-android:before {
+  content: "\eac0";
+}
+.ic-facebook:before {
+  content: "\ea91";
+}
+.ic-whatsapp:before {
+  content: "\ea93";
+}
